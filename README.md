@@ -1,2 +1,2 @@
-# stockpricelstm
-Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTM
+Used Python for developing a predictive script
